@@ -10,7 +10,7 @@ body {
 }
 
 body {
-    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://cdn.jsdelivr.net/gh/flipped-1121/BlogPictures/flipped-1121-PIC/bg.jpg);
+    background-image: linear-gradient(to left, rgba(255, 0, 149, 0.2), rgba(0, 247, 255, 0.2)), url(https://cdn.jsdelivr.net/gh/flipped-1121/BlogPictures@master/flipped-1121-PIC/blogwallpapers(36).png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -45,7 +45,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url(https://cdn.jsdelivr.net/gh/flipped-1121/BlogPictures/flipped-1121-PIC/NU4mod.jpg) no-repeat;
+    background: url(https://cdn.jsdelivr.net/gh/flipped-1121/BlogPictures/flipped-1121-PIC/G4Y~5AOK(A(MJWH%7BLA(T4WY.jpg) no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
